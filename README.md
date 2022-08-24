@@ -1,2 +1,2 @@
 # my-first-binder
-# not launching
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gu15x/my-first-binder/HEAD)
