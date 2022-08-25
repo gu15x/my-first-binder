@@ -1,7 +1,0 @@
-name: phys15xenv
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - jupyterlab-vpython
